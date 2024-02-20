@@ -1,0 +1,14 @@
+.bg-navbar{
+    background-color: #9789eb;
+}
+
+body{
+    /* ตัวอักษรใหญ่ขึ้น25% */
+font-size: 1.25rem;
+background-color:#f6f8fa;
+
+}
+
+td{
+    line-height: 3rem;
+}
